@@ -1,7 +1,5 @@
-version: 2026.232.0520
 plugin-example-kind:
     candy:
-        version: 2026.181.0001
         description: |-
             Reference OUT-OF-TREE charly class:kind plugin (F4) — a standalone Go module
             (go.mod + main.go) serving the `examplekind` entity KIND over go-plugin gRPC via the
